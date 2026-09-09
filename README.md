@@ -33,12 +33,12 @@ if anything break (or loaded the wrong map_spawns), you can re-exec prac.cfg.
 
 # todo
 
-- [ ] de_anubis
-- [ ] de_overpass T
+- [x] de_ancient
+- [x] de_anubis
+- [ ] de_cache CT
+- [x] de_dust2
 - [x] de_inferno
 - [ ] de_mirage
-- [x] de_dust2
 - [ ] de_nuke
-- [ ] de_ancient
+- [ ] de_overpass T
 
-- [ ] de_cache CT
