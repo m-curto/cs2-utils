@@ -14,6 +14,10 @@ move all into `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
 
 # usage
 
+<p align="center">
+<img align=center src="https://github.com/m-curto/cs2-utils/blob/main/resources/readme/console.png">
+</p>
+
 launch any practice map then open console:
 `exec prac.cfg`
 
