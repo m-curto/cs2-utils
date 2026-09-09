@@ -39,6 +39,6 @@ if anything break (or loaded the wrong map_spawns), you can re-exec prac.cfg.
 - [x] de_dust2
 - [x] de_inferno
 - [ ] de_mirage
-- [ ] de_nuke
+- [x] de_nuke
 - [ ] de_overpass T
 
