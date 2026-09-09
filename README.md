@@ -1,5 +1,5 @@
 # cs2-utils
-cs2-utils is an ONLY-CFG repo so that this utility can last as long as possible compared to *.cpp/map_workshop.
+cs2-utils is an CFG ONLY repo so it can last as long as possible compared to *.cpp/map_workshop.
 it contains:
 - practice.cfg with spawns checkpoint/teleport positions.
 - demo.cfg with useful binds for navigation/speeds.
@@ -15,17 +15,15 @@ move all into `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
 # usage
 
 launch any practice map then open console:
-`exec prac/prac.cfg`
-
-if you want to show keybinds:
-`exec prac/prac_print.cfg` / `exec demo/demo_print.cfg`
+`exec prac.cfg`
 
 launch any demo then open console:
-`exec demo/demo_bind.cfg`
+`exec demo.cfg`
 
 # notes
 
-you can also put `exec prac/prac.cfg` at the end of `\game\csgo\cfg\gamemode_competitive.cfg` to launch prac.cfg automatically.
+`exec path\to\cfg` starts from the `game\csgo\cfg` directory.
+you can also put `exec prac.cfg` at the end of `\game\csgo\cfg\gamemode_competitive.cfg` to launch prac.cfg automatically.
 you can also copy/paste *.png in steam notes.
 if anything break (or loaded the wrong map_spawns), you can re-exec prac.cfg.
 
