@@ -1,7 +1,7 @@
 # cs2-utils
 cs2-utils is an CFG ONLY repo so it can last as long as possible compared to *.cpp/map_workshop.
 it contains:
-- practice.cfg with spawns checkpoint/teleport positions.
+- prac.cfg with spawns checkpoint/teleport positions.
 - demo.cfg with useful binds for navigation/speeds.
 - lineups.png as extra instant lineups.
 
@@ -31,14 +31,15 @@ you can also put `exec prac.cfg` at the end of `\game\csgo\cfg\gamemode_competit
 you can also copy/paste *.png in steam notes.
 if anything break (or loaded the wrong map_spawns), you can re-exec prac.cfg.
 
-# todo
+# spawns
 
-- [x] de_ancient
-- [x] de_anubis
-- [ ] de_cache CT
-- [x] de_dust2
-- [x] de_inferno
-- [ ] de_mirage
-- [x] de_nuke
-- [ ] de_overpass T
-
+| 09/09/2026        | CT | T  |
+|-------------------|:--:|:--:|
+| de_ancient        | x  | x  |
+| de_anubis         | x  | x  |
+| de_cache          |    |    |
+| de_dust2          | x  | x  |
+| de_inferno        | x  | x  |
+| de_mirage         |    |    |
+| de_nuke           | x  | x  |
+| de_overpass       | x  |    |
