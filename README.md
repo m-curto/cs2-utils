@@ -33,6 +33,10 @@ if anything break (or loaded the wrong map_spawns), you can re-exec prac.cfg.
 
 # spawns
 
+<p align="center">
+<img align=center src="https://github.com/m-curto/cs2-utils/blob/main/others/readme/map-spawns.gif">
+</p>
+
 | 09/09/2026        | CT | T  |
 |-------------------|:--:|:--:|
 | de_ancient        | x  | x  |
